@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fernando Kenji Kamei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Professor at IFAL and Software Engineer researcher"
   location         : "Brazil, Alagoas"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"https://scholar.google.ca/citations?user=RCUIPgMAAAAJ&hl=en"
+  email            : "fernando.kenji@ifal.edu.br"
   researchgate     :  "https://www.researchgate.net/profile/Fernando_Kenji_Kamei"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5572-2049"
+  orcid            : #"https://orcid.org/0000-0002-5572-2049"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "twitter.com/fkenjikamei"
+  twitter          : "fkenjikamei"
   vine             :
   weibo            :
   xing             :
