@@ -14,6 +14,8 @@ main:
         
   #- title: "Blog"
   #  url: /year-archive/
+  - title: "Research"
+    url: /research/
 
   - title: "About"
     url: /about/
@@ -22,6 +24,3 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
-
-  - title: "Research"
-    ur: /research/
