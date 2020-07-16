@@ -27,7 +27,7 @@ Engineering. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (
 ## 2015
 1. Fernando Selleri Silva, Felipe Santana Furtado Soares, Angela Lima Peres, Ivanildo Monteiro de Azevedo, Ana Paula L.F. Vasconcelos, **Fernando Kenji Kamei**, Silveiro Romero de Lemos. "Using CMMI together with agile software development: A systematic review". Accepted to the Information and Software Technology, v. 58, p. 20-43, 2015. 
 
-2. Rodrigo Ferreira de Lira, Washington Ramon D. dos Santos, Jayne Késcia Gonçalo da Silva, **Fernando Kenji Kamei**. "Além da Extens&atilde;o:" Resultados Preliminares do Ensino de Programa&ccedil;&atilde;o em uma Escola P&uacute;blica Municipal de Alagoas. Accepted to the X Congresso Norte Nordeste de Pesquisa e Inovação. Rio Branco, Acre, Brazil, 2015.
+2. Rodrigo Ferreira de Lira, Washington Ramon D. dos Santos, Jayne Késcia Gonçalo da Silva, **Fernando Kenji Kamei**. "Al&eacute;m da Extens&atilde;o:" Resultados Preliminares do Ensino de Programa&ccedil;&atilde;o em uma Escola P&uacute;blica Municipal de Alagoas. Accepted to the X Congresso Norte Nordeste de Pesquisa e Inovação. Rio Branco, Acre, Brazil, 2015.
 
 
 
