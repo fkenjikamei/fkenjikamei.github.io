@@ -3,6 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/
+
+ # - title: "About"
+ #   url: /about/
   #- title: "Talks"
   #  url: /talks/    
 
@@ -14,11 +19,7 @@ main:
         
   #- title: "Blog"
   #  url: /year-archive/
-  - title: "Research"
-    url: /research/
 
-  - title: "About"
-    url: /about/
   #- title: "CV"
   #  url: /cv/
     
