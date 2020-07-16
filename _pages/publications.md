@@ -55,7 +55,7 @@ Engineering. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (
 
 
 ## 2010
-1.**Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&acute;rcio Rob&eacute;rio Costa Ferro. V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
+1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&acute;rcio Rob&eacute;rio Costa Ferro. V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
 
 ## 2009
 1. **Fernando Kenji Kamei**, Jairo Barros J&uacute;nior, Felipe Prata Lima, Marc&iacute;lio F. de Souza J&uacute;nior. Fatores (Des)Motivadores na Ado&ccedil;&atilde;o de Metodologias &Aacute;geis no Desenvolvimento de Sistemas de Informa&ccedil;&atilde;o. Accepted for the VIII Simp&oacute;sio de Excel&ecirc;ncia em Gest&atilde;o e Tecnologia (SEGeT), Resende, Rio de Janeiro, Brazil, 2009.
