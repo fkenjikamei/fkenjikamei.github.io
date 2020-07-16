@@ -83,7 +83,7 @@ author:
   name             : "Fernando Kenji Kamei"
   avatar           : "profile.png"
   bio              : "Professor at IFAL and Ph.D. student at UFPE in Empirical Software Engineering research"
-  location         : "Brazil, Alagoas"
+  location         : "Alagoas, Brazil"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.ca/citations?user=RCUIPgMAAAAJ&hl=en"
@@ -174,10 +174,10 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -218,15 +218,15 @@ defaults:
  #     author_profile: true
  #     share: true
  #     comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # _publications
+ # - scope:
+ #     path: ""
+ #     type: publications
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     share: true
+ #     comments: true
   # _portfolio
  # - scope:
  #     path: ""
