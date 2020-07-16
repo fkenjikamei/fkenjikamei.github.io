@@ -47,7 +47,7 @@ Engineering. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (
 
 
 ## 2011
-1. **Fernando Kamei**, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). Valor de Negócio da Aplicabilidade das Metodologias Ágeis em Projetos de Desenvolvimento de Software. Accepted to the IX Workshop on Theses and Dissertations of Software Quality (WTDQS 2011), Curitiba, Paran&aacute;, Brazil, 2011.
+1. **Fernando Kamei**, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). Valor de Neg&oacute;cio da Aplicabilidade das Metodologias &Aacute;geis em Projetos de Desenvolvimento de Software. Accepted to the IX Workshop on Theses and Dissertations of Software Quality (WTDQS 2011), Curitiba, Paran&aacute;, Brazil, 2011.
 
 2. Alex N. Borges J&iacute;nior, **Fernando K. Kamei**, Pablo R.C. Alves, Rodrigo G.C. Rocha, Ryan R. Azevedo, Silvio Meira. A Utiliza&ccedil;&atilde;o de Pr&aacute;ticas Scrum no Desenvolvimento de Software com Equipes Grandes e Distribu&iacute;das: um Relato de Experi&ecirc;ncia. Accepted to the 5th Workshop on Distributed Software Development (WDDS), at the II Brazilian Conference on Software: Theory and Practice (CBSoft), S&atilde;o Paulo, Brazil, 2011.
 
@@ -57,7 +57,9 @@ Engineering. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (
 ## 2010
 1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&acute;rcio Rob&eacute;rio Costa Ferro. V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
 
+
 ## 2009
 1. **Fernando Kenji Kamei**, Jairo Barros J&uacute;nior, Felipe Prata Lima, Marc&iacute;lio F. de Souza J&uacute;nior. Fatores (Des)Motivadores na Ado&ccedil;&atilde;o de Metodologias &Aacute;geis no Desenvolvimento de Sistemas de Informa&ccedil;&atilde;o. Accepted for the VIII Simp&oacute;sio de Excel&ecirc;ncia em Gest&atilde;o e Tecnologia (SEGeT), Resende, Rio de Janeiro, Brazil, 2009.
 
 2. Joyse Hemilis Barbosa Rocha, Lucas L. B. Lima, **Fernando Kenji Kamei**. Uma Proposta para a Avalia&ccedil;&atilde;o Tecno-Pedag&oacute;gica do Moodle no Estado de Alagoas. Accepted at IV Encontro de Pesquisa em Educa&ccedil;&atilde;o em Alagoas (EPEAL 2009)Macei&oacute;, Brazil, 2009.
+
