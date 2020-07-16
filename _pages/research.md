@@ -19,6 +19,6 @@ I reearch about how to improve the use of **Grey Literature** as evidence for so
 * Crescencio Lima (IFBA, Brazil)
 * Ivanilton Polato (UTFPR, Brazil)
 * Vilmar Nepomuceno (IFPE, Brazil)
-* Waldemar Ferreira (Cat&oacute;olica, Brazil)
+* Waldemar Ferreira (Cat&oacute;lica, Brazil)
 * Bruno Cartaxo (IFPE, Brazil)
 * Carolline Pena (UFPE, Brazil)
