@@ -56,7 +56,7 @@ author_profile: true
 
 
 ## 2010
-1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&acute;rcio Rob&eacute;rio Costa Ferro. *V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o*. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
+1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&aacute;rcio Rob&eacute;rio Costa Ferro. *V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o*. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
 
 
 ## 2009
