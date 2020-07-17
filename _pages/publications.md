@@ -12,6 +12,8 @@ author_profile: true
 2. **Fernando Kamei**, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). The Use of Grey Literature Review as Evidence for Software
 Engineering. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (WTDSoft 2019), Salvador, Bahia, Brazil, 2019.
 
+3. Bruno Cartaxo, Gustavo Pinto, **Fernando Kamei**, Danilo Monteiro Ribeiro, Fabio Q. B. da Silva, Sérgio Soares. How systematic reviews cover practitioners’ issues: A study on Stack Exchange communities. PeerJ PrePrints, 2019.
+
 
 ## 2017
 
