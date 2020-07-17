@@ -12,3 +12,10 @@ author_profile: true
 
 ## Graduate students
 1. Lucas Falc&atilde;o Pereira. *Metodologias &Aacute;geis: Uma investiga&ccedil;&atilde;o sobre benefícios e limitações de uso em Organizações Públicas do Estado de Alagoas*. Concluded in 2018. Graduate in Systems Information - Federal Institute of Alagoas (IFAL).
+
+## Research mentorship
+
+* Victor Leandro de Oliveira. *Aplicando o m&eacute;todo do aprendizado baseado em problemas na construção de uma fábrica de software distribuída*. Concluded in 2014. Research mentorship at Federal Institute of Sertão Pernambucano (IF Sertão PE).
+* Justino Emerson Lima Araújo. *Aplicando o método de Aprendizado Baseado em Problemas no Ensino de Programação*. Concluded in 2013. Research mentorship at Federal Institute of Sertão Pernambucano (IF Sertão PE).
+* Gabriel Sarmento. *Investigação empírica sobre o uso de ferramentas de refatoração de código de software*. Concluded in 2018. Research mentorship at Federal Institute of Alagoas (IFAL).
+* Georgia Demas. *Oportunista - Sistema integrado de interação acadêmica: módulo web*. Concluded in 2018. Research mentorship at Federal Institute of Alagoas (IFAL).
