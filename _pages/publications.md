@@ -66,5 +66,5 @@ author_profile: true
 
 3. Jairo Barros J&uacute;nior, **Fernando Kenji Kamei**, Felipe Prata Lima, Marc&iacute;lio Ferreira de Souza J&uacute;nior. *Experi&ecirc;ncias com TDD: um relato de times de organiza&ccedil;&otilde;es p&uacute;blicas.* Accepted for the II Encontro de Inicia&ccedil;&atilde;o Cient&iacute;fica (EIC 2009), Palmeira dos &Iacute;ndios, Alagoas, Brazil, 2009. 
 
-4. Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, **Fernando Kamei**. *A import&acird;ncia de avaliar plataformas de educa&ccedil;&atilde;o &agrave dist&acirc;ncia*. Accepted for the Revista Digital Publicar, v. 2, ed. jan-jul, p. 89-99, 2009. 
+4. Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, **Fernando Kamei**. *A import&acirc;ncia de avaliar plataformas de educa&ccedil;&atilde;o &agrave; dist&acirc;ncia*. Accepted for the Revista Digital Publicar, v. 2, ed. jan-jul, p. 89-99, 2009. 
 
