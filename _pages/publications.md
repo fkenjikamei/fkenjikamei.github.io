@@ -44,7 +44,7 @@ author_profile: true
 
 
 ## 2012
-1. **Fernando Kenji Kamei**, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. *Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM*. Chapter book published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE), Juazeiro da Bahia, Brasil, 2012.
+1. **Fernando Kenji Kamei**, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. *Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM*. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE), Juazeiro da Bahia, Bahia, Brasil, 2012.
 
 
 ## 2011
@@ -56,11 +56,15 @@ author_profile: true
 
 
 ## 2010
-1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&acute;rcio Rob&eacute;rio Costa Ferro. *V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o*. Accepted for the WTICG - BASE: Workshop de Trabalhos de Iniciação Científica e de Graduação Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
+1. **Fernando Kenji Kamei**, Fernanda Josirene M. Ferreira, M&aacute;rcio Rob&eacute;rio Costa Ferro. *V&iacute;deo-Monitoria: aumentando o desempenho dos alunos de programa&ccedil;&atilde;o*. Accepted for the WTICG - BASE: Workshop de Trabalhos de Inicia&ccedil;&atilde;o Cient&iacute;fica e de Gradua&ccedil;&atilde;o Bahia - Alagoas - Sergipe (ERBASE 2010), Macei&oacute;, Brazil, 2010.
 
 
 ## 2009
 1. **Fernando Kenji Kamei**, Jairo Barros J&uacute;nior, Felipe Prata Lima, Marc&iacute;lio F. de Souza J&uacute;nior. *Fatores (Des)Motivadores na Ado&ccedil;&atilde;o de Metodologias &Aacute;geis no Desenvolvimento de Sistemas de Informa&ccedil;&atilde;o*. Accepted for the VIII Simp&oacute;sio de Excel&ecirc;ncia em Gest&atilde;o e Tecnologia (SEGeT), Resende, Rio de Janeiro, Brazil, 2009.
 
-2. Joyse Hemilis Barbosa Rocha, Lucas L. B. Lima, **Fernando Kenji Kamei**. *Uma Proposta para a Avalia&ccedil;&atilde;o Tecno-Pedag&oacute;gica do Moodle no Estado de Alagoas*. Accepted at IV Encontro de Pesquisa em Educa&ccedil;&atilde;o em Alagoas (EPEAL 2009)Macei&oacute;, Brazil, 2009.
+2. Joyse Hemilis Barbosa Rocha, Lucas L. B. Lima, **Fernando Kenji Kamei**. *Uma Proposta para a Avalia&ccedil;&atilde;o Tecno-Pedag&oacute;gica do Moodle no Estado de Alagoas*. Accepted at IV Encontro de Pesquisa em Educa&ccedil;&atilde;o em Alagoas (EPEAL 2009)Macei&oacute, Alagoas, Brazil, 2009.
+
+3. Jairo Barros J&uacute;nior, **Fernando Kenji Kamei**, Felipe Prata Lima, Marc&iacute;lio Ferreira de Souza J&uacute;nior. *Experi&ecirc;ncias com TDD: um relato de times de organiza&ccedil;&otilde;es p&uacute;blicas.* Accepted for the II Encontro de Inicia&ccedil;&atilde;o Cient&iacute;fica (EIC 2009), Palmeira dos &Iacute;ndios, Alagoas, Brazil, 2009. 
+
+4. Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, **Fernando Kamei**. *A import&acird;ncia de avaliar plataformas de educa&ccedil;&atilde;o &agrave dist&acirc;ncia*. Accepted for the Revista Digital Publicar, v. 2, ed. jan-jul, p. 89-99, 2009. 
 
