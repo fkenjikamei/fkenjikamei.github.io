@@ -17,7 +17,7 @@ I reearch about how to improve Software Engineering using empirical methods and 
 ## Partnerships
 * [Igor Wiese](http://igorwiese.com/) (UTFPR, Brazil)
 * [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/home) (UFAL, Brazil)
-* [Crescencio Lima](http://crescencio-lima.herokuapp.com/) (IFBA, Brazil)
+* [Crescencio Lima](www.crescenciolima.com) (IFBA, Brazil)
 * [Ivanilton Polato](http://lattes.cnpq.br/7551030263039033) (UTFPR, Brazil)
 * [Vilmar Nepomuceno](https://sites.google.com/site/vilmarnepomuceno/) (IFPE, Brazil)
 * Waldemar Ferreira (Cat&oacute;lica, Brazil)
