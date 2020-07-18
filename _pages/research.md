@@ -6,11 +6,12 @@ author_profile: true
 
 ---
 
-I reearch about how to improve the use of **Grey Literature** as evidence for software engineering researchers. Also, I always like to research about **social aspects** of software engineering.
+I reearch about how to improve Software Engineering using empirical methods and Evidence-Based Software Engineering. Also, I always like to research about **social aspects** of software engineering.
 
 ## Current research investigations
 * Grey literature in Software Engineering with [**Dr. S&eacute;rgio Soares (UFPE)**](https://www.cin.ufpe.br/~scbs/) and [**Dr. Gustavo Pinto (UFPA)**](www.gustavopinto.org)
 * Empirical methods 
+* Agile methods
 
 
 ## Partnerships
