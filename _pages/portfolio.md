@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 
 ---
 
-I reearch about how to improve the use of **Grey Literature** as evidence for software engineering researchers. Also, I always like to research about **social aspects** of software engineering.
+PORTFOLIO
 
 ## Current research investigations
 * Grey literature in Software Engineering with [**Dr. S&eacute;rgio Soares (UFPE)**](https://www.cin.ufpe.br/~scbs/) and [**Dr. Gustavo Pinto (UFPA)**](www.gustavopinto.org)
