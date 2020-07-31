@@ -11,5 +11,3 @@ I'm Professor at the Informatic Coordination of the [Federal Institute of Alagoa
 
 
 I am currently Ph.D. student at the [Federal University of Pernambuco](http://cin.ufpe.br), Brazil, under supervising of [Dr. Sérgio Soares](https://www.cin.ufpe.br/~scbs/) and [Dr. Gustavo Pinto](http://gustavopinto.org/). My research investigation is about Grey Literature in Software Engineering.
-
-
