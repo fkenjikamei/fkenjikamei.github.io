@@ -20,6 +20,6 @@ I reearch about how to improve Software Engineering using empirical methods and 
 * [Crescencio Lima](http://www.crescenciolima.com) (IFBA, Brazil)
 * [Ivanilton Polato](http://lattes.cnpq.br/7551030263039033) (UTFPR, Brazil)
 * [Vilmar Nepomuceno](https://sites.google.com/site/vilmarnepomuceno/) (IFPE, Brazil)
-* Waldemar Ferreira (UNICAP, Brazil)
+* [Waldemar Ferreira](http://lattes.cnpq.br/8662463350773114) (UNICAP, Brazil)
 * [Bruno Cartaxo](http://www.brunocartaxo.org) (IFPE, Brazil)
 * [Carolline Pena](http://lattes.cnpq.br/3172061554093280) (UFPE, Brazil)
