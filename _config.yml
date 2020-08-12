@@ -88,7 +88,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.ca/citations?user=RCUIPgMAAAAJ&hl=en"
   email            : "fernando.kenji@ifal.edu.br"
-  researchgate     :  "https://www.researchgate.net/profile/Fernando_Kenji_Kamei"
+  #researchgate     :  #"https://www.researchgate.net/profile/Fernando_Kenji_Kamei"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  lattes           : "http://lattes.cnpq.br/5033020411757389"
 
 
 # Reading Files
