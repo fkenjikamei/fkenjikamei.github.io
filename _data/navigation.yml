@@ -6,6 +6,8 @@ main:
     url: /students/
   - title: "Publications"
     url: /publications/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
   #- title: "Talks"
@@ -14,8 +16,7 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+
         
   #- title: "Blog"
   #  url: /year-archive/
