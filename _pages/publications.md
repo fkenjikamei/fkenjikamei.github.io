@@ -27,7 +27,7 @@ author_profile: true
 
 
 ## 2015
-1. Fernando Selleri Silva, Felipe Santana Furtado Soares, Angela Lima Peres, Ivanildo Monteiro de Azevedo, Ana Paula L.F. Vasconcelos, **Fernando Kenji Kamei**, Silveiro Romero de Lemos. *[Using CMMI together with agile software development: A systematic review](https://www.sciencedirect.com/science/article/abs/pii/S0950584914002110)*. Accepted to the Information and Software Technology (IST), v. 58, p. 20-43, 2015. 
+1. Fernando Selleri Silva, Felipe Santana Furtado Soares, Angela Lima Peres, Ivanildo Monteiro de Azevedo, Ana Paula L.F. Vasconcelos, **Fernando Kenji Kamei**, Silvio Meira. *[Using CMMI together with agile software development: A systematic review](https://www.sciencedirect.com/science/article/abs/pii/S0950584914002110)*. Accepted to the Information and Software Technology (IST), v. 58, p. 20-43, 2015.
 
 2. Rodrigo Ferreira de Lira, Washington Ramon D. dos Santos, Jayne K&eacute;scia Gon&ccedil;alo da Silva, **Fernando Kenji Kamei**. *Al&eacute;m da Extens&atilde;o: Resultados Preliminares do Ensino de Programa&ccedil;&atilde;o em uma Escola P&uacute;blica Municipal de Alagoas*. Accepted to the X Congresso Norte Nordeste de Pesquisa e Inovação (CONNEPI 2015). Rio Branco, Acre, Brazil, 2015.
 
