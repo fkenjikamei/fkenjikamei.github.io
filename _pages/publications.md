@@ -13,17 +13,17 @@ author_profile: true
 
 2. **Fernando Kamei**, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). *[The Use of Grey Literature Review as Evidence for Software Engineering](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/7656)*. Accepted to the IX Workshop on Theses and Dissertations of CBSoft (WTDSoft 2019), Salvador, Bahia, Brazil, 2019.
 
-3. [Bruno Cartaxo](http://brunocartaxo.com), Gustavo Pinto, **Fernando Kamei**, Danilo Monteiro Ribeiro, Fabio Q. B. da Silva, Sérgio Soares. *[How systematic reviews cover practitioners’ issues: A study on Stack Exchange communities](https://peerj.com/preprints/27610v1/)*. PeerJ PrePrints (*not peer-reviewed*), 2019.
+3. [Bruno Cartaxo](http://brunocartaxo.com), [Gustavo Pinto](http://gustavopinto.org), **Fernando Kamei**, Danilo Monteiro Ribeiro, [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). *[How systematic reviews cover practitioners’ issues: A study on Stack Exchange communities](https://peerj.com/preprints/27610v1/)*. PeerJ PrePrints (*not peer-reviewed*), 2019.
 
 
 ## 2017
 1. **Fernando Kamei**, [Gustavo Pinto](http://gustavopinto.org), [Bruno Cartaxo](http://brunocartaxo.com/), [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). *[On the Benefits/Limitations of Agile Software Development: An Interview Study with Brazilian Companies](https://dl.acm.org/doi/10.1145/3084226.3084278)*. Accepted to the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE 2017). Karlskrona, Sweden, 2017.
 
-2. [Bruno Cartaxo](http://brunocartaxo.com/), [Gustavo Pinto](http://gustavopinto.org), [Danilo Ribeiro](https://sites.google.com/site/profdanilomonteiro/), **Fernando Kamei**, Ronnie E. S. Santos, [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/), [Fabio Q. B. Da Silva](https://www.researchgate.net/profile/Fabio_Silva19). *[Using Q&A Websites as a Method for Assessing Systematic Reviews](https://ieeexplore.ieee.org/document/7962373)*. Accepted to the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017.
+2. [Bruno Cartaxo](http://brunocartaxo.com/), [Gustavo Pinto](http://gustavopinto.org), [Danilo Ribeiro](http://lattes.cnpq.br/9054177799378154), **Fernando Kamei**, [Ronnie E. S. Santos](http://lattes.cnpq.br/7740410814678720), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). *[Using Q&A Websites as a Method for Assessing Systematic Reviews](https://ieeexplore.ieee.org/document/7962373)*. Accepted to the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017.
 
 
 ## 2016
-1. Melquizedequi Cabral dos Santos, Aline C. R. Marques, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Sandro R. B. Oliveira, **Fernando K. Kamei**, Andson da Silva Rodrigues, Deuzilene B. Santana. *[Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)*. Accepted to 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016.
+1. [Melquizedequi Cabral dos Santos](http://lattes.cnpq.br/6821572264951451), Aline C. R. Marques, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Sandro R. B. Oliveira, **Fernando K. Kamei**, Andson da Silva Rodrigues, Deuzilene B. Santana. *[Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)*. Accepted to 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016.
 
 
 ## 2015
