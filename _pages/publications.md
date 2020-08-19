@@ -19,7 +19,7 @@ author_profile: true
 ## 2017
 1. **Fernando Kamei**, [Gustavo Pinto](http://gustavopinto.org), [Bruno Cartaxo](http://brunocartaxo.com/), [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). *[On the Benefits/Limitations of Agile Software Development: An Interview Study with Brazilian Companies](https://dl.acm.org/doi/10.1145/3084226.3084278)*. Accepted to the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE 2017). Karlskrona, Sweden, 2017.
 
-2. [Bruno Cartaxo](http://brunocartaxo.com/), [Gustavo Pinto](http://gustavopinto.org), [Danilo Ribeiro](http://lattes.cnpq.br/9054177799378154), **Fernando Kamei**, [Ronnie E. S. Santos](http://lattes.cnpq.br/7740410814678720), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). *[Using Q&A Websites as a Method for Assessing Systematic Reviews](https://ieeexplore.ieee.org/document/7962373)*. Accepted to the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017.
+2. [Bruno Cartaxo](http://brunocartaxo.com/), [Gustavo Pinto](http://gustavopinto.org), [Danilo Ribeiro](http://lattes.cnpq.br/9054177799378154), **Fernando Kamei**, [Ronnie E. S. Santos](http://lattes.cnpq.br/7740410814678720), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). *[Using Q&A Websites as a Method for Assessing Systematic Reviews](https://ieeexplore.ieee.org/document/7962373)*. Accepted to the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017. [Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/msr2017-preprint.pdf)
 
 
 ## 2016
