@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2020
-1. Fernando Kamei, [Igor Wiese](http://igorwiese.com), [Gustavo Pinto](http://gustavopinto.org), [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. Accepted to the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [[PDF](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf)] **[🥇Best Paper Award]**
+1. Fernando Kamei, [Igor Wiese](http://igorwiese.com), [Gustavo Pinto](http://gustavopinto.org), [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. Accepted to the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [[PDF](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf)] [[Video]](https://doi.org/10.5281/zenodo.4079523) **[🥇Best Paper Award]**
 
 ## 2019
 1. Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **The Use of Grey Literature Review as Evidence for Practitioners**. Accepted to the 17th International Doctoral Symposium On Empirical Software Engineering (IDoESE 2019), Porto de Galinhas, Pernambuco, Brazil, 2019. [[PDF]](https://dl.acm.org/doi/10.1145/3356773.3356797)
