@@ -185,6 +185,9 @@ kramdown:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
  # talks:
  #   output: true
  #   permalink: /:collection/:path/
