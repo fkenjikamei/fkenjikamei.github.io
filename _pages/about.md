@@ -8,7 +8,7 @@ author_profile: true
 
 ## Short bio
 
-MSc in Computer Science, and a professor at the Federal Institute of Alagoas (IFAL), Brazil. Nowadays, Kenji is a Ph.D. student at the Federal University of Pernambuco (UFPE), Brazil, researching about Grey Literature in Software Engineering.
+MSc in Computer Science, and a Assistent Professor at the Federal Institute of Alagoas (IFAL), Brazil. Nowadays, Kenji is a Ph.D. student at the Federal University of Pernambuco (UFPE), Brazil, researching about Grey Literature in Software Engineering.
 
 In 2012 he holds a master’s degree in Computer Science at the [Center of Informatic](https://www.cin.ufpe.br) (CIn) at [Federal University of Pernambuco](https://www.ufpe.br) (UFPE), in 2012. In 2009 he holds a bachelor’s degree in System Information at the Faculty of Alagoas (FAL) and in 2006 he concludes a computer technician course at the Federal Center of Education of Alagoas (CEFET-AL).
 
