@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+# DISSERTATION
+M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012 [[PDF]](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
+
+# BOOKS AND CHAPTERS
+1. Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
+
+2. Fernando Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). **Introdução ao Gerenciamento Ágil de Projetos com o SCRUM**. XI Escola Regional de Computação Bahia Alagoas Sergipe. : , 2012, v. 2, p. 130-159.
+
+
+# ARTICLES
+
 ## 2020
 1. Fernando Kamei, [Igor Wiese](http://igorwiese.com), [Gustavo Pinto](http://gustavopinto.org), [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. Accepted to the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [[PDF](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf)] [[Video]](https://doi.org/10.5281/zenodo.4079523) **[🥇Best Paper Award]**
 
