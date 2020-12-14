@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fernando Kenji Kamei"
 title_separator          : "-"
 name                     : &name "Fernando Kenji Kamei"
-description              : &description "Assistent professor and software engineering researcher"
+description              : &description "Assistent professor at IFAL and Ph.D. student at UFPE in Empirical Software Engineering research"
 url                      : https://fkenjikamei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fkenjikamei/fkenjikamei.github.io"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Fernando Kenji Kamei"
   avatar           : "profile.png"
-  bio              : "Assistent professor at 
-  and Ph.D. student at UFPE in Empirical Software Engineering research"
+  bio              : "Assistent professor at IFAL and Ph.D. student at UFPE in Empirical Software Engineering research"
   location         : "Alagoas, Brazil"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
