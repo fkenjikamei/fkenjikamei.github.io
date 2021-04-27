@@ -13,8 +13,6 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 
 2. Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
 
-2. Fernando Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). **Introdução ao Gerenciamento Ágil de Projetos com o SCRUM**. XI Escola Regional de Computação Bahia Alagoas Sergipe. 2012, v. 2, p. 130-159.
-
 
 # ARTICLES
 
