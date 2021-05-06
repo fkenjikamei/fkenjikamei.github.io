@@ -13,7 +13,7 @@ name                     : &name "Fernando Kenji Kamei"
 description              : &description "Assistent professor at IFAL and Ph.D. student at UFPE in Empirical Software Engineering research"
 url                      : https://fernandokamei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fernandokamei.github.io"
+repository               : "https://github.com/fkenjikamei/fernandokamei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
