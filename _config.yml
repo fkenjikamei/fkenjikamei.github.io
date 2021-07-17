@@ -173,9 +173,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-plugins:
-  - jemoji
-
 # Collections
 #collections:
 #  teaching:
@@ -317,3 +314,6 @@ compress_html:
     envs: development
 
 github: [metadata]
+
+plugins:
+  - jemoji
