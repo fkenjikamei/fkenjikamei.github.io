@@ -9,9 +9,9 @@ author_profile: true
 M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012. [[PDF]](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
 
 # BOOKS AND CHAPTERS
-1. Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
+Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
 
-2. Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012. [[PDF]](https://arxiv.org/pdf/2104.13435)
+Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012. [[PDF]](https://arxiv.org/pdf/2104.13435)
 
 
 # ARTICLES
