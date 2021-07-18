@@ -11,7 +11,6 @@ I reearch about how to improve Software Engineering using empirical methods and 
 ## Current research investigations
 * Grey literature in Software Engineering with [**Dr. S&eacute;rgio Soares (UFPE)**](https://www.cin.ufpe.br/~scbs/) and [**Dr. Gustavo Pinto (UFPA)**](https://www.gustavopinto.org)
 * Empirical methods 
-* Agile methods
 
 
 ## Partnerships
