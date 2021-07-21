@@ -19,8 +19,9 @@ Kenji worked as a consultant in Recife, Brazil, employing practices and techniqu
 
 Research interests
 ======
-- Empirical Software Engineering methods
-- Social aspects of software engineering
+- Empirical Software Engineering
+- Grey Literature
+- Social Aspects of Software Engineering
 - Agile methods
 - Software quality
 
