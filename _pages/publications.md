@@ -8,11 +8,6 @@ author_profile: true
 # DISSERTATION
 M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012. [:paperclip:PDF](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
 
-# BOOKS AND CHAPTERS
-Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
-
-Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
-
 
 # ARTICLES
 
@@ -78,4 +73,10 @@ Joyse Hemilis Barbosa Rocha, Lucas L. B. Lima, Fernando Kenji Kamei. **Uma Propo
 Jairo Barros J&uacute;nior, Fernando Kenji Kamei, Felipe Prata Lima, Marc&iacute;lio Ferreira de Souza J&uacute;nior. **Experi&ecirc;ncias com TDD: um relato de times de organiza&ccedil;&otilde;es p&uacute;blicas.** In the II Encontro de Inicia&ccedil;&atilde;o Cient&iacute;fica (EIC 2009), Palmeira dos &Iacute;ndios, Alagoas, Brazil, 2009. 
 
 Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, Fernando Kamei. **A import&acirc;ncia de avaliar plataformas de educa&ccedil;&atilde;o &agrave; dist&acirc;ncia**. Revista Digital Publicar, v. 2, ed. jan-jul, p. 89-99, 2009. [:paperclip:Preprint](https://drive.google.com/file/d/1cXq0wC-CKxKOnzbFnV8szlxn-4WSPQok/view?usp=sharing)
+
+
+# BOOKS AND CHAPTERS
+Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
+
+Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
 
