@@ -34,7 +34,7 @@ Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares]
 
 
 ## 2016
-Melquizedequi Cabral dos Santos, Aline C. R. Marques, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Sandro R. B. Oliveira, Fernando K. Kamei, Andson da Silva Rodrigues, Deuzilene B. Santana. **Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study]**. In the 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016. [:paperclip:Preprint](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)
+Melquizedequi Cabral dos Santos, Aline C. R. Marques, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Sandro R. B. Oliveira, Fernando K. Kamei, Andson da Silva Rodrigues, Deuzilene B. Santana. **Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study**. In the 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016. [:paperclip:Preprint](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)
 
 
 ## 2015
