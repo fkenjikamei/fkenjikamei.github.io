@@ -12,29 +12,29 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 # ARTICLES
 
 ## 2021
-:star: Fernando Kamei, [Igor Wiese](http://igorwiese.com), Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/), Carolline Pena, [Bruno Cartaxo](http://brunocartaxo.com), [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **Grey Literature in Software Engineering: A Critical Review**. Information and Software Technology (IST), 2021. [:paperclip:Preprint](https://arxiv.org/pdf/2104.13435)
+:star: Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, M&aacute;rcio Ribeiro, Carolline Pena, Bruno Cartaxo, Gustavo Pinto, S&eacute;rgio Soares. **Grey Literature in Software Engineering: A Critical Review**. Information and Software Technology (IST), 2021. [:paperclip:Preprint](https://arxiv.org/pdf/2104.13435)
 
-:star: Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [Igor Wiese](http://igorwiese.com), [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/),[S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **What Evidence We would Miss If We Do not Use Grey Literature?**. In the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2021), 2021. [:paperclip:Preprint](https://arxiv.org/pdf/2107.05792)
+:star: Fernando Kamei, Gustavo Pinto, Igor Wiese, M&aacute;rcio Ribeiro,S&eacute;rgio Soares. **What Evidence We would Miss If We Do not Use Grey Literature?**. In the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2021), 2021. [:paperclip:Preprint](https://arxiv.org/pdf/2107.05792)
 
 ## 2020
-:star: Fernando Kamei, [Igor Wiese](http://igorwiese.com), [Gustavo Pinto](http://gustavopinto.org), [M&aacute;rcio Ribeiro](https://sites.google.com/a/ic.ufal.br/marcio/), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. In the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [:paperclip:Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf) | [:movie_camera:Video-Presentation](https://doi.org/10.5281/zenodo.4079523) | **[:trophy:Best paper Award](https://www.dropbox.com/s/prhf6a3fr6tknw1/2020-10-sbes2020-bestpaper.pdf?dl=0)**
+:star: Fernando Kamei, Igor Wiese, Gustavo Pinto, M&aacute;rcio Ribeiro, S&eacute;rgio Soares. **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. In the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [:paperclip:Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf) | [:movie_camera:Video-Presentation](https://doi.org/10.5281/zenodo.4079523) | **[:trophy:Best paper Award](https://www.dropbox.com/s/prhf6a3fr6tknw1/2020-10-sbes2020-bestpaper.pdf?dl=0)**
 
 ## 2019
-Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **The Use of Grey Literature Review as Evidence for Practitioners**. In the 17th International Doctoral Symposium On Empirical Software Engineering (IDoESE 2019), Porto de Galinhas, Pernambuco, Brazil, 2019. [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3356773.3356797)
+Fernando Kamei, Gustavo Pinto, S&eacute;rgio Soares. **The Use of Grey Literature Review as Evidence for Practitioners**. In the 17th International Doctoral Symposium On Empirical Software Engineering (IDoESE 2019), Porto de Galinhas, Pernambuco, Brazil, 2019. [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3356773.3356797)
 
-Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **The Use of Grey Literature Review as Evidence for Software Engineering**. In the IX Workshop on Theses and Dissertations of CBSoft (WTDSoft 2019), Salvador, Bahia, Brazil, 2019. [:paperclip:Preprint](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/7656)
+Fernando Kamei, Gustavo Pinto, S&eacute;rgio Soares. **The Use of Grey Literature Review as Evidence for Software Engineering**. In the IX Workshop on Theses and Dissertations of CBSoft (WTDSoft 2019), Salvador, Bahia, Brazil, 2019. [:paperclip:Preprint](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/7656)
 
-[Bruno Cartaxo](http://brunocartaxo.com), [Gustavo Pinto](http://gustavopinto.org), Fernando Kamei, Danilo Monteiro Ribeiro, [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/). **How systematic reviews cover practitioners’ issues: A study on Stack Exchange communities**. PeerJ PrePrints (*not peer-reviewed*), 2019. [:paperclip:Preprint](https://peerj.com/preprints/27610v1/)
+Bruno Cartaxo, Gustavo Pinto, Fernando Kamei, Danilo Monteiro Ribeiro, Fabio Q. B. Da Silva, S&eacute;rgio Soares. **How systematic reviews cover practitioners’ issues: A study on Stack Exchange communities**. PeerJ PrePrints (*not peer-reviewed*), 2019. [:paperclip:Preprint](https://peerj.com/preprints/27610v1/)
 
 
 ## 2017
-:star: Fernando Kamei, [Gustavo Pinto](http://gustavopinto.org), [Bruno Cartaxo](http://brunocartaxo.com/), [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). **On the Benefits/Limitations of Agile Software Development: An Interview Study with Brazilian Companies**. In the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE 2017). Karlskrona, Sweden, 2017. [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3084226.3084278)
+:star: Fernando Kamei, Gustavo Pinto, Bruno Cartaxo, Alexandre Vasconcelos. **On the Benefits/Limitations of Agile Software Development: An Interview Study with Brazilian Companies**. In the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE 2017). Karlskrona, Sweden, 2017. [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3084226.3084278)
 
-[Bruno Cartaxo](http://brunocartaxo.com/), [Gustavo Pinto](http://gustavopinto.org), [Danilo Ribeiro](http://lattes.cnpq.br/9054177799378154), Fernando Kamei, [Ronnie E. S. Santos](http://lattes.cnpq.br/7740410814678720), [S&eacute;rgio Soares](http://www.cin.ufpe.br/~scbs/), [Fabio Q. B. Da Silva](http://lattes.cnpq.br/6381755382123529). **Using Q&A Websites as a Method for Assessing Systematic Reviews**. In the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017. [:paperclip:Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/msr2017-preprint)
+Bruno Cartaxo, Gustavo Pinto, Danilo Ribeiro, Fernando Kamei, Ronnie E. S. Santos, S&eacute;rgio Soares, Fabio Q. B. Da Silva. **Using Q&A Websites as a Method for Assessing Systematic Reviews**. In the 14th International Conference on Mining Software Repositories (MSR 2017). Buenos Aires, Argentina, 2017. [:paperclip:Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/msr2017-preprint)
 
 
 ## 2016
-Melquizedequi Cabral dos Santos, Aline C. R. Marques, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Sandro R. B. Oliveira, Fernando K. Kamei, Andson da Silva Rodrigues, Deuzilene B. Santana. **Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study**. In the 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016. [:paperclip:Preprint](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)
+Melquizedequi Cabral dos Santos, Aline C. R. Marques, Alexandre Vasconcelos, Sandro R. B. Oliveira, Fernando K. Kamei, Andson da Silva Rodrigues, Deuzilene B. Santana. **Modeling the Impact of Scrum and XP in the Satisfaction of Stakeholders based on Thematic Analysis: A Systematic Study**. In the 13th International Conference on Information Systemas & Technology Management (CONTECSI 2016). S&atilde;o Paulo, Brazil, 2016. [:paperclip:Preprint](http://www.contecsi.tecsi.org/index.php/contecsi/13CONTECSI/paper/view/3904)
 
 
 ## 2015
@@ -44,17 +44,17 @@ Rodrigo Ferreira de Lira, Washington Ramon D. dos Santos, Jayne K&eacute;scia Go
 
 
 ## 2014
-[Gustavo Pinto](http://gustavopinto.org) and Fernando Kamei. **The Census of the Brazilian Open-Source Community**. In the 10th International Conference of Open-Source Systems (OSS 2014), San Jose, Costa Rica, 2014. [:paperclip:Preprint](https://link.springer.com/chapter/10.1007/978-3-642-55128-4_30)
+Gustavo Pinto and Fernando Kamei. **The Census of the Brazilian Open-Source Community**. In the 10th International Conference of Open-Source Systems (OSS 2014), San Jose, Costa Rica, 2014. [:paperclip:Preprint](https://link.springer.com/chapter/10.1007/978-3-642-55128-4_30)
 
 
 ## 2013
-:star: [Gustavo Pinto](http://gustavopinto.org) and Fernando Kamei. **What Programmers Say About Refactoring Tools? An Empirical Investigation of Stack Overflow**. In the 6th International Workshop on Refactoring Tools (WRT 2013), Indianapolis, EUA, 2013. [:paperclip:Preprint](http://gustavopinto.github.io/lost+found/wrt2013.pdf)
+:star: Gustavo Pinto and Fernando Kamei. **What Programmers Say About Refactoring Tools? An Empirical Investigation of Stack Overflow**. In the 6th International Workshop on Refactoring Tools (WRT 2013), Indianapolis, EUA, 2013. [:paperclip:Preprint](http://gustavopinto.github.io/lost+found/wrt2013.pdf)
 
-[Gustavo Pinto](http://gustavopinto.org) and Fernando Kamei. **Analisando as Contribui&ccedil;&otilde;es de Desenvolvedores Brasileiros em Projetos Distribu&iacute;dos de Software Open-Source: Um Estudo Inicial**. In the 7th Workshop on Distributed Software Development (WDDS 2013), at the 3rd Brazilian Conference on Software: Theory and Practice (CBSoft 2013), Brasilia, Brazil, 2013. [:paperclip:Preprint](http://gustavopinto.github.io/lost+found/wdds2013.pdf)
+Gustavo Pinto and Fernando Kamei. **Analisando as Contribui&ccedil;&otilde;es de Desenvolvedores Brasileiros em Projetos Distribu&iacute;dos de Software Open-Source: Um Estudo Inicial**. In the 7th Workshop on Distributed Software Development (WDDS 2013), at the 3rd Brazilian Conference on Software: Theory and Practice (CBSoft 2013), Brasilia, Brazil, 2013. [:paperclip:Preprint](http://gustavopinto.github.io/lost+found/wdds2013.pdf)
 
 
 ## 2011
-Fernando Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/). **Valor de Neg&oacute;cio da Aplicabilidade das Metodologias &Aacute;geis em Projetos de Desenvolvimento de Software**. In the IX Workshop on Theses and Dissertations of Software Quality (WTDQS 2011), Curitiba, Paran&aacute;, Brazil, 2011. [:paperclip:Preprint](https://drive.google.com/file/d/1XOd5nNu9BdrWe0L2PLnwPYK6nU2UeQB4/view?usp=sharing)
+Fernando Kamei, Alexandre Vasconcelos. **Valor de Neg&oacute;cio da Aplicabilidade das Metodologias &Aacute;geis em Projetos de Desenvolvimento de Software**. In the IX Workshop on Theses and Dissertations of Software Quality (WTDQS 2011), Curitiba, Paran&aacute;, Brazil, 2011. [:paperclip:Preprint](https://drive.google.com/file/d/1XOd5nNu9BdrWe0L2PLnwPYK6nU2UeQB4/view?usp=sharing)
 
 Alex N. Borges J&iacute;nior, Fernando K. Kamei, Pablo R.C. Alves, Rodrigo G.C. Rocha, Ryan R. Azevedo, Silvio Meira. **A Utiliza&ccedil;&atilde;o de Pr&aacute;ticas Scrum no Desenvolvimento de Software com Equipes Grandes e Distribu&iacute;das: um Relato de Experi&ecirc;ncia**. In the 5th Workshop on Distributed Software Development (WDDS 2011), S&atilde;o Paulo, Brazil, 2011. [:paperclip:Preprint](https://drive.google.com/file/d/1mexnJoMRiEeoA9QeqklKlROjU1VAWPJf/view?usp=sharing)
 
@@ -78,5 +78,5 @@ Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, Fernando Kamei. **A import&aci
 # BOOKS AND CHAPTERS
 Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
 
-Fernando Kenji Kamei, [Alexandre Vasconcelos](http://cin.ufpe.br/~amlv/), Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
+Fernando Kenji Kamei, Alexandre Vasconcelos, Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
 
