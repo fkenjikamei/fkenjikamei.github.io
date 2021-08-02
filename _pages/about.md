@@ -21,7 +21,7 @@ Research interests
 ======
 - Empirical Software Engineering
 - Grey Literature
-- Social Aspects of Software Engineering
+- Human and Social Aspects of Software Engineering
 - Agile methods
 - Software quality
 
