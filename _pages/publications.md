@@ -11,6 +11,9 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 
 # ARTICLES
 
+## 2022
+Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro, Renata Souza, S&eacute;rgio Soares. **Assessing the Credibility of Grey Literature: A Study with Brazilian Software Engineering Researchers**. Journal of Software Engineering Research and Development (JSERD), 2022. [English]
+
 ## 2021
 :star: Fernando Kamei, Igor Wiese, Crescencio Lima, Ivanilton Polato, Vilmar Nepomuceno, Waldemar Ferreira, M&aacute;rcio Ribeiro, Carolline Pena, Bruno Cartaxo, Gustavo Pinto, S&eacute;rgio Soares. **Grey Literature in Software Engineering: A Critical Review**. Information and Software Technology (IST), 2021. [:paperclip:Preprint](https://arxiv.org/pdf/2104.13435) [English]
 
