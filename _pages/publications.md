@@ -23,7 +23,7 @@ Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro,
 :star: Fernando Kamei, Igor Wiese, Gustavo Pinto, M&aacute;rcio Ribeiro, S&eacute;rgio Soares. **On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community**. In the 34th Brazilian Software Engineering Symposium (SBES 2020), Natal, Rio Grande do Norte, Brazil, 2020. [:paperclip:Preprint](https://github.com/fkenjikamei/fkenjikamei.github.io/raw/master/files/sbes2020-preprint.pdf) / [:movie_camera:Video-Presentation](https://doi.org/10.5281/zenodo.4079523) [English] / **[:trophy:Best paper Award](https://www.dropbox.com/s/prhf6a3fr6tknw1/2020-10-sbes2020-bestpaper.pdf?dl=0)**
 
 ## 2019
-Fernando Kamei, Gustavo Pinto, S&eacute;rgio Soares. **The Use of Grey Literature Review as Evidence for Practitioners**. In the 17th International Doctoral Symposium On Empirical Software Engineering (IDoESE 2019), Porto de Galinhas, Pernambuco, Brazil, 2019. [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3356773.3356797)
+Fernando Kamei, Gustavo Pinto, S&eacute;rgio Soares. **The Use of Grey Literature Review as Evidence for Practitioners**. In the 17th International Doctoral Symposium On Empirical Software Engineering (IDoESE 2019), Porto de Galinhas, Pernambuco, Brazil, 2019. Published at SIGSOFT Softw. Eng. Notes 44, 3 (July 2019), 23 [:paperclip:Preprint](https://dl.acm.org/doi/10.1145/3356773.3356797)
 
 Fernando Kamei, Gustavo Pinto, S&eacute;rgio Soares. **The Use of Grey Literature Review as Evidence for Software Engineering**. In the IX Workshop on Theses and Dissertations of CBSoft (WTDSoft 2019), Salvador, Bahia, Brazil, 2019. [:paperclip:Preprint](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/7656)
 
