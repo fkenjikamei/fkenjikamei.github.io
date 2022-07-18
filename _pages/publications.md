@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-# DISSERTATION
+# Thesis and Dissertation
+Ph.D Thesis. **Understanding and Supporting the Decision-making Whether to Use Grey Literature in Software Engineering Research**, 2022. [:paperclip:PDF](https://drive.google.com/file/d/12n3e3K8CnZecC3J0AQxHsNSNm0HXAEJC/view?usp=sharing) [English]
+
 M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012. [:paperclip:PDF](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
 
 
-# ARTICLES
+# Articles and papers
 
 ## 2022
 :star: Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro, Renata Souza, S&eacute;rgio Soares. **Assessing the Credibility of Grey Literature: A Study with Brazilian Software Engineering Researchers**. Journal of Software Engineering Research and Development (JSERD), 2022. [:paperclip:Preprint](https://sol.sbc.org.br/journals/index.php/jserd/article/view/1897) [English]
@@ -78,7 +80,7 @@ Jairo Barros J&uacute;nior, Fernando Kenji Kamei, Felipe Prata Lima, Marc&iacute
 Ricardo Rubens, Hemilis Rocha, Fernanda Ferreira, Fernando Kamei. **A import&acirc;ncia de avaliar plataformas de educa&ccedil;&atilde;o &agrave; dist&acirc;ncia**. Revista Digital Publicar, v. 2, ed. jan-jul, p. 89-99, 2009. [:paperclip:Preprint](https://drive.google.com/file/d/1cXq0wC-CKxKOnzbFnV8szlxn-4WSPQok/view?usp=sharing)
 
 
-# BOOKS AND CHAPTERS
+# Books and Chapters
 Fernando Kamei. **Ensino, pesquisa e extensão em Institutos Federais no Nordeste do Brasil: Percepções, Experiências, Limites e Possibilidades**. 1. ed. Maceió: GPICET / IFAL, 2016. 156p.
 
 Fernando Kenji Kamei, Alexandre Vasconcelos, Fabio Q. B. da Silva. **Introdução ao Gerenciamento &Aacute;gil de Projetos com o SCRUM**. Book chapter published on the Proceedings of XI Escola Regional de Computação Bahia Alagoas Sergipe (ERBASE 2012), Juazeiro da Bahia, Bahia, Brasil, 2012.
