@@ -11,7 +11,7 @@ Ph.D Thesis. **Understanding and Supporting the Decision-making Whether to Use G
 M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012. [:paperclip:PDF](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
 
 
-# Articles and papers
+# Articles and Papers
 
 ## 2022
 :star: Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro, Renata Souza, S&eacute;rgio Soares. **Assessing the Credibility of Grey Literature: A Study with Brazilian Software Engineering Researchers**. Journal of Software Engineering Research and Development (JSERD), 2022. [:paperclip:Preprint](https://sol.sbc.org.br/journals/index.php/jserd/article/view/1897) [English]
