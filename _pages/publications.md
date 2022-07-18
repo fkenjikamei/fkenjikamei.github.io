@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#
+
 # Thesis and Dissertation
 Ph.D Thesis. **Understanding and Supporting the Decision-making Whether to Use Grey Literature in Software Engineering Research**, 2022. [:paperclip:PDF](https://drive.google.com/file/d/12n3e3K8CnZecC3J0AQxHsNSNm0HXAEJC/view?usp=sharing) [English]
 
