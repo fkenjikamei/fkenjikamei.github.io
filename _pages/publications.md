@@ -14,6 +14,9 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 
 # Articles and Papers
 
+## 2023
+Alexandre Viana, Fernando Kenji Kamei, Kiev Gama, Carlos Zimmerle, João Alexandre Neto. **A Grey Literature Review on Data Stream Processing Applications Testing**. The Journal of Systems & Software (JSS), 2023.
+
 ## 2022
 :star: Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro, Renata Souza, S&eacute;rgio Soares. **Assessing the Credibility of Grey Literature: A Study with Brazilian Software Engineering Researchers**. Journal of Software Engineering Research and Development (JSERD), 2022. [:paperclip:Preprint](https://sol.sbc.org.br/journals/index.php/jserd/article/view/1897) [English]
 
