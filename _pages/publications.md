@@ -15,7 +15,7 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 # Articles and Papers
 
 ## 2024
-Carolline Pena, Bruno Cartaxo, Igor Steinmacher, Deepika Badampudi, Deyvson Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. Comparing the efficacy of Rapid Review with a Systematic Review in the Software Engineering Field. Journal of Software: Journal of Software: Evolution and Process (JSEP), 2024.
+Carolline Pena, Bruno Cartaxo, Igor Steinmacher, Deepika Badampudi, Deyvson Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. **Comparing the efficacy of Rapid Review with a Systematic Review in the Software Engineering Field**. Journal of Software: Journal of Software: Evolution and Process (JSEP), 2024.
 
 ## 2023
 Alexandre Viana, Fernando Kenji Kamei, Kiev Gama, Carlos Zimmerle, João Alexandre Neto. **A Grey Literature Review on Data Stream Processing Applications Testing**. The Journal of Systems & Software (JSS), 2023.
