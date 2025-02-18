@@ -14,6 +14,9 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 
 # Articles and Papers
 
+## 2025
+Marcos Nazário, Rodrigo Bonifácio, Cleidson de Souza, Fernando Kenji Kamei, Gustavo Pinto. “Strategies to Mitigate Configuration Differences in Software Development: A Rapid Review of Grey Literature”. Journal of Software Engineering Research and Development (JSERD), 2025.
+
 ## 2024
 Carolline Pena, Bruno Cartaxo, Igor Steinmacher, Deepika Badampudi, Deyvson Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. **Comparing the efficacy of Rapid Review with a Systematic Review in the Software Engineering Field**. Journal of Software: Journal of Software: Evolution and Process (JSEP), 2024.
 
