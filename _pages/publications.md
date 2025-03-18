@@ -15,13 +15,14 @@ M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Dese
 # Articles and Papers
 
 ## 2025
-Marcos Nazário, Rodrigo Bonifácio, Cleidson de Souza, Fernando Kenji Kamei, Gustavo Pinto. “Strategies to Mitigate Configuration Differences in Software Development: A Rapid Review of Grey Literature”. Journal of Software Engineering Research and Development (JSERD), 2025.
+Marcos Nazário, Rodrigo Bonifácio, Cleidson de Souza, Fernando Kenji Kamei, Gustavo Pinto. “Strategies to Mitigate Configuration Differences in Software Development: A Rapid Review of Grey Literature”. Journal of Software Engineering Research and Development (JSERD), 2025. [:paperclip:Paper](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4378/3122) [English]
 
 ## 2024
-Carolline Pena, Bruno Cartaxo, Igor Steinmacher, Deepika Badampudi, Deyvson Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. **Comparing the efficacy of Rapid Review with a Systematic Review in the Software Engineering Field**. Journal of Software: Journal of Software: Evolution and Process (JSEP), 2024.
+Carolline Pena, Bruno Cartaxo, Igor Steinmacher, Deepika Badampudi, Deyvson Silva, Williby Ferreira, Adauto Almeida, Fernando Kamei, Sérgio Soares. **Comparing the efficacy of Rapid Review with a Systematic Review in the Software Engineering Field**. Journal of Software: Journal of Software: Evolution and Process (JSEP), 2024. [:paperclip:Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2748) [English]
+
 
 ## 2023
-Alexandre Viana, Fernando Kenji Kamei, Kiev Gama, Carlos Zimmerle, João Alexandre Neto. **A Grey Literature Review on Data Stream Processing Applications Testing**. The Journal of Systems & Software (JSS), 2023.
+Alexandre Viana, Fernando Kenji Kamei, Kiev Gama, Carlos Zimmerle, João Alexandre Neto. **A Grey Literature Review on Data Stream Processing Applications Testing**. The Journal of Systems & Software (JSS), 2023. [:paperclip:Paper](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001395) [English]
 
 ## 2022
 :star: Fernando Kamei, Igor Wiese, Gustavo Pinto, Waldemar Neto, M&aacute;rcio Ribeiro, Renata Souza, S&eacute;rgio Soares. **Assessing the Credibility of Grey Literature: A Study with Brazilian Software Engineering Researchers**. Journal of Software Engineering Research and Development (JSERD), 2022. [:paperclip:Preprint](https://sol.sbc.org.br/journals/index.php/jserd/article/view/1897) [English]
