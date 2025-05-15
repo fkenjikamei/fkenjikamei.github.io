@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Thesis and Dissertation
-Ph.D Thesis. **Understanding and Supporting the Decision-making Whether to Use Grey Literature in Software Engineering Research**, 2022. [:paperclip:PDF]([https://drive.google.com/file/d/12n3e3K8CnZecC3J0AQxHsNSNm0HXAEJC/view?usp=sharing](https://drive.google.com/file/d/1CGlUtVk5HLJmcYIh0csuXYwwJ1vWvnMQ/view?usp=sharing)) [English]
+Ph.D Thesis. **Understanding and Supporting the Decision-making Whether to Use Grey Literature in Software Engineering Research**, 2022. [:paperclip:PDF](https://drive.google.com/file/d/1CGlUtVk5HLJmcYIh0csuXYwwJ1vWvnMQ/view?usp=sharing) [English]
 
 M.Sc. Dissertation. **Benefícios e Limitações das Metodologias Ágeis no Desenvolvimento de Software**, 2012. [:paperclip:PDF](https://drive.google.com/file/d/1I9Oi0SPm-Z7TzdaoxGBA0eC2s6bPhycF/view?usp=sharing) [Portuguese]
 
